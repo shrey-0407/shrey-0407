@@ -51,9 +51,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=shrey-0407&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/username=nitish9413&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shrey-0407&show_icons=true&locale=en" alt="shrey-0407" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shrey-0407&" alt="shrey-0407" /></p>
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people from around the world, so if you want to be my friend, feel free to [reach out](https://wa.me/+919665555977) and introduce yourself (don’t just say hi, tell me about yourself")</b> 😊 💜</em>
 

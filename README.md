@@ -7,7 +7,9 @@
 
 
 <h3 align="center">A passionate Computer geek from India</h3>
- <h3 align="center">I am incredibly passionate about building unique and innovative products, love experimenting with new technologies and occasionally joining hackathons!! 👋</h3>
+ <h3 align="center">I am having a versatile professional experienced in data science, data engineering, and cloud development, with expertise
+in extracting insights from data, building data pipelines, and deploying scalable cloud-based solutions to drive data-driven
+decision-making and business innovation. 👋</h3>
 
 ### I am a self-taught programmer from INDIA. 🔭
 
@@ -17,9 +19,18 @@
 
 - 🔭 I’m currently working on **Insurance Premium Prediction**
 
-- 🌱 I’m currently learning **MLops**
+- 🌱 I’m currently learning **DATA ENGINEERING**
 
 - 👯 I’m looking to collaborate on **ML Data Science Projects**
+
+- <!-- Skills -->
+## Skills
+- Languages : Python, C++, SQL
+- Frameworks : TensorFlow, Keras
+- Cloud : AWS
+- Databases : SQL, Snowflake
+- Visualization Tools: Power BI, Tableau, AWS Quicksite
+- Devops Tools : Git, Gitlab, Docker, KUBERNETES
 
 - 📫 How to reach me **shreyash966977@gmail.com**
 
@@ -50,6 +61,12 @@
   
 <img src="https://activity-graph.herokuapp.com/graph?username=shrey-0407&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=false" />
 
+<!-- Featured Projects -->
+## Featured Projects
+- [Project 1](https://github.com/shrey-0407/YouTube-Data-Analysis-Data-Engineering): Data Engineering YouTube Analysis Project
+- [Project 2](https://github.com/shrey-0407/Twitter-Data-Extraction-and-Transformation-with-Airflow): Twitter-Data-Extraction-and-Transformation-with-Airflow.
+- [Project 3](https://github.com/shrey-0407/Insurance-Premium-Prediction-Internship-Project): Insurance-Premium-Prediction-Internship-Project.
+- [Project 4](https://github.com/shrey-0407/Spofity-Data-Analysis-With-Aws): Spofity-Data-Analysis-With-Aws.
 
 
 </br>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shrey-0407&hide_border=true)](https://github.com/PruthviBelgaonkar/github-readme-stats)
